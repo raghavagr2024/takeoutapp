@@ -1,6 +1,6 @@
-# stevensontakeout
+# takeout app
 
-An app that allows takeout for Adlai E Stevenson High School students
+An app that allows takeout for my school's students
 
 ## Getting Started
 
